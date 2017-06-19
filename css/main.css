@@ -1,6 +1,7 @@
 body {
-  background-color: white;
-  color:black;
+  background-color: #ff978f;
+  color:#0a92a0;
+  font-family: 'Kalam', cursive;
 }
 
 header {
@@ -21,7 +22,7 @@ a {
   height: 100px;
 }
 h1, p{
-  color: DeepPink ;
+  color: #75faff;
 }
 h1{
   font-size: 50px;
@@ -57,7 +58,12 @@ footer{
   padding: 10px;
 }
 
-
+/* Estilos botones */
+.btns-style {
+  background-color: #0a92a0;
+  color: white;
+}
 
 /* Estilos comentarios */
+
 
